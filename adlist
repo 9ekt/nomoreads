@@ -1,0 +1,7 @@
+# Made For Pi-Hole mainly #
+#BEGIN BLOCKLIST#
+samsung-com.112.2o7.net
+browser.sentry-cdn.com
+realtime.luckyorange.com
+fwtracks.freshmarketer.com
+claritybt.freshmarketer.com
